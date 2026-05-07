@@ -6,13 +6,45 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🔍 Real-Time Fraud Detection | Live transaction risk scoring with AI-powered explanations on a live dashboard | Python, Streamlit, Pathway AI |
-| 💰 AI Money Mentor | Financial wellness scoring system across 6 dimensions with actionable recommendations | Python, Streamlit |
-| 🌐 MERN Web Apps | 5+ full-stack web applications with REST APIs, dynamic state management, and cloud deployment | MongoDB, Express, React, Node.js |
+### 🤖 AI / Pathway Projects *(Hackathon Prototypes)*
+
+| Project | Description | Stack | Live |
+|---------|-------------|-------|------|
+| 🔍 Real-Time Fraud Detection | Live transaction risk scoring with AI-powered explanations — built for Hack for Green Bharat | Python, Streamlit, Pathway | [Demo](https://hack-for-green-submission.onrender.com) |
+| 💰 AI Money Mentor | Financial wellness scoring across 6 dimensions with actionable recommendations — built for ET Gen AI Hackathon | Python, Streamlit | [Demo](https://et-gen-ai-submission.onrender.com) |
+
+---
+
+### 🧠 Computer Vision Projects
+
+| Project | Description | Stack | Live |
+|---------|-------------|-------|------|
+| 🐱 Cat's Cradle | Real-time neon hand tracking — glowing laser strings weave between fingertips using MediaPipe. Particle explosions on finger touch, CRT scanline overlay, zero dependencies | MediaPipe, HTML5 Canvas, Vanilla JS | [Demo](https://cat-s-cradle-dglf.onrender.com) |
+| 🌳 Hand Gesture Tree Visualizer | Reveal, rotate and grow a glowing 3D tree using hand gestures via webcam. Features bloom, glow and particle effects | Python, OpenCV, MediaPipe, NumPy | Coming Soon |
+
+---
+
+### 🌐 HTML / CSS / JS Projects
+
+| Project | Description | Live |
+|---------|-------------|------|
+| 💜 Women's Day | Celebration landing page | [Render](https://women-s-day-l0yy.onrender.com) · [Netlify 1](https://letscelebratewomensday.netlify.app/) · [Netlify 2](https://happiestwomensday.netlify.app/) |
+| 💝 Valentine's Day | Interactive Valentine's wish page | [Demo](https://wishingvalentine.netlify.app/) |
+| 💝 Valentine's Alt | Alternative Valentine's experience | [Demo](https://valentine-8r64.onrender.com) |
+| 🎂 Birthday Wishes | Animated birthday greeting page | [Demo](https://happiestbirthdaywishes.netlify.app/) |
+
+---
+
+### 👥 Group / Collaborative Projects
+
+| Project | Description | Stack | Live |
+|---------|-------------|-------|------|
+| 🎉 Moksha NSUT | Official website for Moksha'25 — NSUT's annual cultural fest | Web | [mokshansut.com](https://mokshansut.com/) |
+| ⚡ IEEE NSUT | Official website for IEEE NSUT student branch | Web | [ieeensut.com](https://ieeensut.com/) |
+| 🚀 Prajvalan | Website for Prajvalan — an early-stage startup | Web | [prajvalan.netlify.app](https://prajvalan.netlify.app/) |
+| 🍽️ Restaurant App | Full-stack restaurant web app built during InternPro MERN internship | MongoDB, Express, React, Node.js | [Demo](https://restaurant-app-163i.onrender.com/) |
 
 ---
 
@@ -24,7 +56,7 @@
 
 **Frameworks, Platforms & Libraries**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 
 **Databases**
 
