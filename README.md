@@ -22,7 +22,7 @@
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
 | 🐱 Cat's Cradle | Real-time neon hand tracking — glowing laser strings weave between fingertips using MediaPipe. Particle explosions on finger touch, CRT scanline overlay, zero dependencies | MediaPipe, HTML5 Canvas, Vanilla JS | [Demo](https://cat-s-cradle-dglf.onrender.com) |
-| 🌳 Hand Gesture Tree Visualizer | Reveal, rotate and grow a glowing 3D tree using hand gestures via webcam. Features bloom, glow and particle effects | Python, OpenCV, MediaPipe, NumPy | Coming Soon |
+| 🌳 Hand Gesture Tree Visualizer | Reveal, rotate and grow a glowing 3D tree using hand gestures via webcam. Features bloom, glow and particle effects | Python, OpenCV, MediaPipe, NumPy | [Demo](https://hand-gesture-tree-visualizer.onrender.com) |
 
 ---
 
