@@ -19,7 +19,7 @@ Over the past year, I've built and shipped AI-powered applications, real-time da
 
 ### Highlights
 
-🏆 Semi-Finalist — ET GenAI Hackathon 2026
+🏆 Semi-Finalist - ET GenAI Hackathon 2026
 
 🤖 Built and deployed 12+ AI and full-stack projects
 
