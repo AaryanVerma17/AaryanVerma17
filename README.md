@@ -1,5 +1,52 @@
 # 💫 About Me:
-**Hi, I'm Aaryan Verma 👋**<br>A college student, builder, and tech enthusiast from New Delhi, India. I live at the intersection of Full-Stack Development, AI, and Finance - turning ideas into working products, one project at a time.<br><br>---<br><br>**About Me:**<br><br>🔭 I'm currently working on - Full-Stack web applications using the MERN stack, AI-powered tools using LangChain and OpenAI APIs, and expanding my portfolio of live projects<br><br>🤝 I'm looking to collaborate on - Freelance web development projects, open-source tools, hackathon teams, and early-stage startup ideas that need a developer who can move fast<br><br>🤝 I'm looking for help with - Advanced system design patterns, scaling full-stack applications, and diving deeper into machine learning model deployment<br><br>🌱 I'm currently learning - Advanced React patterns, TypeScript, AI agent frameworks, and financial analysis fundamentals<br><br>💬 Ask me about - MERN Stack development, AI integrations, prompt engineering, hackathon strategies, case competitions, or how to build and ship projects as a college student<br><br>⚡ Fun fact - I am a Mechanical Engineering student who spends more time building web apps and AI tools than anything mechanical - and I have absolutely no regrets about it<br><br>---
+# Hi, I'm Aaryan Verma 👋
+
+**AI Developer • Full-Stack Engineer • Builder**
+
+I'm an Engineering undergraduate at NSUT who enjoys turning ambitious ideas into working products. My interests sit at the intersection of **Artificial Intelligence, Full-Stack Development, and Finance**, where I build systems that solve real problems rather than just demos that look good on paper.
+
+Over the past year, I've built and shipped AI-powered applications, real-time data pipelines, intelligent monitoring systems, and full-stack web products using technologies such as **Python, JavaScript, React, Node.js, OpenAI APIs, LangChain, and Pathway AI**.
+
+### What I'm Building
+
+🚀 AI-powered applications using LLMs, RAG pipelines, and intelligent agents
+
+🌐 Full-stack products with React, Node.js, Express, and MongoDB
+
+📊 Data-driven tools for finance, automation, and decision support
+
+⚡ Real-time systems that process, analyze, and act on live data streams
+
+### Highlights
+
+🏆 Semi-Finalist — ET GenAI Hackathon 2026
+
+🤖 Built and deployed 12+ AI and full-stack projects
+
+💡 Passionate about taking products from idea → architecture → deployment
+
+🎯 Strong interest in AI Engineering, Backend Systems, Developer Platforms, and Applied Machine Learning
+
+### Currently Exploring
+
+* Agentic AI workflows and autonomous systems
+* Advanced TypeScript and scalable frontend architecture
+* Cloud-native application development
+* Machine Learning and recommendation systems
+* Financial technology and quantitative analysis
+
+### Let's Connect
+
+I'm always open to discussing:
+
+* AI and Generative AI
+* Full-Stack Development
+* Startup Ideas
+* Hackathons & Competitions
+* Open Source Collaboration
+
+> I may be a Mechanical Engineering student on paper, but most of my time is spent building software, experimenting with AI, and shipping products.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaryanverma__17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaryanverma2007) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/bookish__stroke) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Disstrackter) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaryanverma933@gmail.com)
