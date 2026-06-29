@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Aaryan Verma 👋
+**Hi, I'm Aaryan Verma 👋**
 
 **AI Developer • Full-Stack Engineer • Builder**
 
@@ -21,7 +21,7 @@ Over the past year, I've built and shipped AI-powered applications, real-time da
 
 🏆 Semi-Finalist - ET GenAI Hackathon 2026
 
-🤖 Built and deployed 12+ AI and full-stack projects
+🤖 Built and deployed 35+ AI, full-stack, and frontend projects
 
 💡 Passionate about taking products from idea → architecture → deployment
 
@@ -81,6 +81,38 @@ I'm always open to discussing:
 | 💝 Valentine's Day | Interactive Valentine's wish page | [Demo](https://wishingvalentine.netlify.app/) |
 | 💝 Valentine's Alt | Alternative Valentine's experience | [Demo](https://valentine-8r64.onrender.com) |
 | 🎂 Birthday Wishes | Animated birthday greeting page | [Demo](https://happiestbirthdaywishes.netlify.app/) |
+
+---
+
+### 🎨 100 Projects — HTML CSS JavaScript
+
+> A collection of 23 self-contained frontend projects built with vanilla HTML, CSS, and JavaScript. Each project is independently deployable and live on Netlify.
+
+| # | Project | Description | Live |
+|--:|---------|-------------|------|
+| 1 | Simple Calculator | Basic calculator UI with JS logic for arithmetic operations | [Open](https://simplecalculater1.netlify.app/) |
+| 2 | Counter | Counter with increment and decrement functionality | [Open](https://numbercounterproject.netlify.app/) |
+| 3 | Text Formatter | Text transformation and formatting tools | [Open](https://textformatterproject.netlify.app/) |
+| 4 | Email Validation | Validates email input with visual valid/invalid feedback | [Open](https://emailvalidationproject.netlify.app/) |
+| 5 | Digital Clock | Real-time digital clock UI | [Open](https://digitalclock5.netlify.app/) |
+| 6 | Browse File Upload | File upload and browse UI component | [Open](https://browsefileupload.netlify.app/) |
+| 7 | Mini Calendar | Calendar UI for date selection and navigation | [Open](https://minicalaneder.netlify.app/) |
+| 8 | Password Strength | Password strength indicator with visual background feedback | [Open](https://passwordsstrength.netlify.app/) |
+| 9 | Gradient Generator | Live CSS gradient generator tool | [Open](https://gradiantsgenerator.netlify.app/) |
+| 10 | Password Generator | Randomised secure password generator | [Open](https://passwordsgeneratorproject.netlify.app/) |
+| 11 | Box Shadow Generator | CSS box-shadow visual builder and preset generator | [Open](https://boxshadowgeneratorproject.netlify.app/) |
+| 12 | Decimal to Binary Converter | Converts decimal numbers to binary with step-by-step output | [Open](https://decimaltobinaryconvert.netlify.app/) |
+| 13 | Todo List | Full todo app with add, remove, and mark-complete functionality | [Open](https://todolistsproject13.netlify.app/) |
+| 14 | Emoji Catcher Game | Interactive emoji catching and clicking game | [Open](https://emojicatchergameproject.netlify.app/) |
+| 15 | Book List | Book management app — add, select, and manage a reading list | [Open](https://bookslistproject.netlify.app/) |
+| 16 | Typing Game | Timed typing challenge with accuracy scoring | [Open](https://typing-game-project.netlify.app/) |
+| 17 | Shape Clicker Game | Click/tap shapes game with score and timing | [Open](https://shapeclickergameproject.netlify.app/) |
+| 18 | Word Counter | Word count and text statistics tool | [Open](https://wordscounterproject.netlify.app/) |
+| 19 | Construction Landing Page | Professional construction-themed landing page | [Open](https://constructionlandingpage.netlify.app/) |
+| 20 | Foody Landing Page | Food and restaurant themed landing page | [Open](https://foodylandingpageproject.netlify.app/) |
+| 21 | Meal Finder | Meal search and lookup interface | [Open](https://mealfinderproject.netlify.app/) |
+| 22 | GitHub Profile Clone | GitHub profile UI clone built from scratch | [Open](https://githubprofilecloneproject.netlify.app/) |
+| 23 | Wikipedia Clone | Wikipedia-style search and article UI clone | [Open](https://wikipediacloneproject.netlify.app/) |
 
 ---
 
