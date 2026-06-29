@@ -84,7 +84,7 @@ I'm always open to discussing:
 
 ---
 
-### 🎨 100 Projects — HTML CSS JavaScript
+### 🎨 23 Projects - HTML CSS JavaScript
 
 > A collection of 23 self-contained frontend projects built with vanilla HTML, CSS, and JavaScript. Each project is independently deployable and live on Netlify.
 
